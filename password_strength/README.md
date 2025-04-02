@@ -2,6 +2,8 @@
 
 A simple **Streamlit** web app to check password strength. It provides **real-time feedback** and suggestions to improve password security.  
 
+**Live Link** https://python-projects-ub2hiyake2bgmtx77qu8xa.streamlit.app/
+
 ---
 
 ## **🚀 Features**  

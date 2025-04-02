@@ -11,6 +11,7 @@ This repository contains a collection of small but useful **Python-based project
 ## **📌 Projects Overview**
 
 1. **Unit Converter Web App (Streamlit)**
+    **Live Link** https://python-projects-tkmwrcgfujyrqirzk5k3py.streamlit.app/
     - A **web app** built with **Streamlit** that allows users to convert **length, weight, and temperature units** in real time.
     - **Tech Used**: Python, Streamlit
     - **Features**: 
@@ -19,6 +20,7 @@ This repository contains a collection of small but useful **Python-based project
         - User-friendly interface
 
 2. **Password Strength Meter (Streamlit)**
+     **Live Link** https://python-projects-ub2hiyake2bgmtx77qu8xa.streamlit.app/
     - A simple **web app** that analyzes and rates the strength of a password based on its length, characters, and composition.
     - **Tech Used**: Python, Streamlit
     - **Features**:
